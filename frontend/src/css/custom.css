@@ -1,0 +1,23 @@
+.text-red-500 {
+  color: #f56565;
+}
+.ck-content {
+  height: 800px !important;
+}
+
+.gradient-hover {
+  background: linear-gradient(
+    to right,
+    rgb(34 197 94 / var(--tw-bg-opacity)),
+    rgb(34 197 94 / var(--tw-bg-opacity)) 50%,
+    #fff 50%
+  );
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all 0.5s ease-out;
+}
+
+.gradient-hover:hover {
+  background-position: left bottom;
+  color: white;
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Toán lớp 1",
+        "chapters": [
+            {
+                "id": 1,
+                "name": "Chương 1: Các số trong phạm vi 10",
+                "lessons": [
+                    {
+                        "name": "Bài 1: Các số từ 1 đến 5"
+                    },
+                    {
+                        "name": "Bài 2: Các số từ 6 đến 10"
+                    },
+                    {
+                        "name": "Bài 3: Phép cộng trong phạm vi 10"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Chương 2: Các số trong phạm vi 20",
+                "lessons": [
+                    {
+                        "name": "Bài 1: Các số từ 11 đến 15"
+                    },
+                    {
+                        "name": "Bài 2: Các số từ 16 đến 20"
+                    },
+                    {
+                        "name": "Bài 3: Phép trừ trong phạm vi 20"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Toán lớp 2",
+        "chapters": [
+            {
+                "id": 1,
+                "name": "Chương 1: Phép cộng, trừ có nhớ trong phạm vi 100",
+                "lessons": [
+                    {
+                        "name": "Bài 1: Phép cộng không nhớ"
+                    },
+                    {
+                        "name": "Bài 2: Phép cộng có nhớ"
+                    },
+                    {
+                        "name": "Bài 3: Phép trừ không nhớ"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Chương 2: Phép nhân, chia trong phạm vi 100",
+                "lessons": [
+                    {
+                        "name": "Bài 1: Phép nhân trong phạm vi 10"
+                    },
+                    {
+                        "name": "Bài 2: Phép nhân trong phạm vi 100"
+                    },
+                    {
+                        "name": "Bài 3: Phép chia trong phạm vi 10"
+                    }
+                ]
+            }
+        ]
+    }
+]
